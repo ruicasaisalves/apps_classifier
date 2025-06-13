@@ -10,3 +10,5 @@ pip install matplotlib
 pip install nltk
 pip install seaborn
 pip install plotly
+pip install pysentimiento
+pip install -U ipykernel
