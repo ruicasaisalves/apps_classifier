@@ -2,8 +2,8 @@
 Check Google Apps Rating
 
 # Bibliotecas a instalar
-pip install swifter
-pip install google_play_scraper
+pip install swifter  
+pip install google_play_scraper   
 pip install pandas
 pip install stanza
 pip install matplotlib
